@@ -1,17 +1,15 @@
 Oláaaa, eu sou a Fernanda! 👋
 
 - ☕ Aprendendo Java;
-- 🧪 Engenheira Química e Bacharela em Ciência e Tecnologia;
-- 🧠 Pós-Graduanda em Engenharia de Qualidade;
-- 🐷 Pronomes: Ela/Dela;
-- 🍀 Em Constante Crescimento.
+- 🧪 Engenheira Química e Bacharela em Ciência e Tecnologia e Pós-Graduanda em Engenharia de Qualidade;
+- :panda_face: Pronomes: Ela/Dela;
 
 ##
 
 <div align="center">
 <a href="https://github.com/FernandaLOSNeves">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=FernandaLOSNeves&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaLOSNeves&layout=compact&langs_count=7&theme=cobalt"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=FernandaLOSNeves&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaLOSNeves&layout=compact&langs_count=7&theme=onedark"/>
   
 </div>
   
