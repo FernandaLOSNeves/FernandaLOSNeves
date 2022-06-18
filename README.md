@@ -21,4 +21,4 @@ Oláaaa, eu sou a Fernanda! 👋
 </div>
 
 
-![Snake animation](https://github.com/FernandaLOSNeves/FernandaLOSNeves/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/FernandaLOSNeves/FernandaLOSNeves/blob/output/github-contribution-grid-snake.svg)
