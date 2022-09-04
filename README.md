@@ -1,6 +1,6 @@
 Oláaaa, eu sou a Fernanda! 👋
 
-- ☕ Aprendendo Java;
+- ☕ Java e Spring;
 - 🧪 Engenheira Química, Bacharela em Ciência e Tecnologia e Pós-Graduanda em Engenharia de Qualidade;
 - :panda_face: Pronomes: Ela/Dela;
 
